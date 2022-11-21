@@ -10,5 +10,4 @@ let result_date = (days) => {
 };
 module.exports = result_date;
 console.log(result_date(10));
-echo "# sample_doc" >> README.md
 
